@@ -1,0 +1,92 @@
+body
+{
+  font-family: 'Titillium Web', sans-serif;
+  background: rgb(155, 185, 233);
+  
+  
+  font-family: 'Titillium Web', sans-serif;
+  
+  
+  
+  
+}
+
+header
+{
+  background:#0E50B4;
+  color: #DBDBDB;
+  height: 200px;
+  margin-bottom: 100px;
+}
+
+/* ****************************************************************************** */
+.Element h1 div img ul li
+{
+  box-sizing: border-box;
+}
+
+.Element
+{
+  width: auto;
+  height: auto;
+  min-width: 100px;
+  background: rgb(40, 78, 247);
+  color: #e0df98;
+  box-shadow: 2px 14px 23px 6px rgba(34, 64, 233, 0.75);
+  border: 2px solid rgb(2, 16, 78);
+  border-radius: 10px;
+
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.Element:hover
+{
+  box-shadow: 2px 14px 23px 6px rgb(161, 238, 180);
+}
+.Element h1
+{
+  font-size: 25px;
+  font-weight: lighter;
+  margin: 7px 5px 7px 15px;
+}
+.Element div
+{
+  margin: 10px;
+  background: rgb(161, 238, 180);
+  border: 1px solid rgb(2, 16, 78);
+  border-radius: 5px;
+  color: rgb(4, 13, 53);
+}
+.Element img
+{
+  height:98%;
+  width: 96%; 
+  margin: 2% 2% 0 2%;
+  border: 1px solid rgb(83, 141, 97);
+  border-radius: 5px;
+}
+.Element ul
+{
+  list-style-type: square;
+  margin: 5px 7px 15px 25px;
+  padding: 0;
+}
+.Element li
+{
+  text-align: left;
+  font-size: 15px;
+}
+
+
+
+
+/*Footer Section **************************************************************************************************  */
+footer
+{
+  height: 200px;
+  background:red;
+  margin-top: 100px;
+
+  
+}
